@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-class students
+class students // class created
 {
 public:
     string name;
