@@ -14,9 +14,9 @@ int main()
     bool x=false;
     cout<<"";
     
-    do{
+    // do{
        
-    } while (!x);
+    // } while (!x);
     
     students s1, s2;
     system("cls");
